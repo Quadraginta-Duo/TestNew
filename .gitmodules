@@ -5,3 +5,7 @@
 [submodule "moonraker"]
 	path = moonraker
 	url = https://github.com/Arksine/moonraker.git
+
+[submodule "klipper"]
+	path = klipper
+	url = https://github.com/Klipper3d/klipper
